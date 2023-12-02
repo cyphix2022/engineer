@@ -1,2 +1,5 @@
-Version
+Version Control System like Git
+
+Git is a centralised Version Control System
+
 
